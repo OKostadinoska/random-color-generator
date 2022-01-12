@@ -14,7 +14,7 @@ It should be able to not only accept the command itself, but also the request fo
 
 - hue (e.g. green or red or blue)
 - luminosity (e.g. light or dark)
-  ...and then generate random colors that match those choices.
+  ...and then generate random colors that match those choices
 
 ```bash
 $ node index.js
