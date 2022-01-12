@@ -2,7 +2,7 @@
 import chalk from 'chalk';
 import randomColor from 'randomcolor';
 
-// giving a name to the process.argv property
+// giving a name to the process.argv property (initialize)
 const hueColor = process.argv[2];
 const luminosityColor = process.argv[3];
 
