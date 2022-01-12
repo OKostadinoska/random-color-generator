@@ -6,8 +6,9 @@ Without any user input, print random color:
 
 ```bash
 $ node index.js
-Prints random color in a block
+
 ```
+![1](https://user-images.githubusercontent.com/90897068/149161283-b537a03b-70e6-4e16-8288-46116fe5656d.png)
 
 With user input of a correct color name: print color:
 It should be able to not only accept the command itself, but also the request for a:
@@ -18,5 +19,7 @@ It should be able to not only accept the command itself, but also the request fo
 
 ```bash
 $ node index.js
-Prints concrete hue or luminosity in a block
+
 ```
+![node index js red](https://user-images.githubusercontent.com/90897068/149160718-1f027ff7-b355-4b3a-bae2-cc2ea05eeb7e.png)
+![node index js blue light](https://user-images.githubusercontent.com/90897068/149160741-836498b9-bd97-4a90-b30a-db5b0ad60693.png)
